@@ -1,7 +1,7 @@
 # LeDecolor
-Log-Euclidean Metrics for Contrast Preserving Decolorization
-% [1] Q. Liu, G. Shao, Y. Wang, J. Gao, H. Leung, “Log-Euclidean Metrics for Contrast Preserving Decolorization” 
-% IEEE Trans. Image Process., pp, 2017. 
+Log-Euclidean Metrics for Contrast Preserving Decolorization  
+% [1] Q. Liu, G. Shao, Y. Wang, J. Gao, H. Leung, “Log-Euclidean Metrics for Contrast Preserving Decolorization”   
+% IEEE Trans. Image Process., pp, 2017.  
 % Author: Q. Liu, G. Shao, Y. Wang, J. Gao, H. Leung 
 % Date : 22/10/2016 
 % Version : 1.0 
