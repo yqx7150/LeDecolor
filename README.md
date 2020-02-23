@@ -21,5 +21,6 @@ Log-Euclidean Metrics for Contrast Preserving Decolorization
 % Im = im2double(imread('6.png'));  
 % gIm = LeDecolor_v1(Im); % Default Parameters (gamma = 0.2)  
 % figure, imshow(Im,[]), figure, imshow(gIm,[]); 
+
 ## Demonstration of LeDecolor
 ![](./figs/Demonstration1.png)  
