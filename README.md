@@ -1,7 +1,7 @@
 # LeDecolor
 Log-Euclidean Metrics for Contrast Preserving Decolorization  
 % [1] Q. Liu, G. Shao, Y. Wang, J. Gao, H. Leung, “Log-Euclidean Metrics for Contrast Preserving Decolorization”   
-% IEEE Trans. Image Process., pp, 2017.   
+% IEEE Trans. Image Process., 26(12): 5772-5783, 2017.   
 % Author: Q. Liu, G. Shao, Y. Wang, J. Gao, H. Leung  
 % Date : 22/10/2016  
 % Version : 1.0  
@@ -24,3 +24,9 @@ Log-Euclidean Metrics for Contrast Preserving Decolorization
 
 ## Demonstration of LeDecolor
 ![](./figs/Demonstration1.png)  
+
+
+## Other Related Projects
+  * GcsDecolor: Gradient Correlation Similarity for Efficient Contrast Preserving Decolorization [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/7088620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GcsDecolor)
+
+  * Variable augmented neural network for decolorization and multi-exposure fusion [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)
